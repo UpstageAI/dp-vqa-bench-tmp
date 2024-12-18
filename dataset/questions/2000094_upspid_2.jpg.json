@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": "line"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the title of the x-axis in the chart?",
+    "short_answer": "2021"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What does the y-axis represent in the chart?",
+    "short_answer": "% Accumulation of Vaccinated Population"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which period shows the highest percentage of vaccinated population?",
+    "short_answer": "May 23 - May 29"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "What is the percentage difference between the values of 'Apr 4 - Apr 10' and 'May 23 - May 29'?",
+    "short_answer": "12"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Trends and Predictions",
+    "question": "Does the percentage increase consistently throughout the timeline?",
+    "short_answer": "Yes"
+  }
+]

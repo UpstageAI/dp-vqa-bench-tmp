@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": "line"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the title of the chart in the document?",
+    "short_answer": "Weekly Ghost Kitchen Sales"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "How many labels are ther in the y-axis?",
+    "short_answer": "7"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "Does the chart exceed $60,000 at any specific time period?",
+    "short_answer": "Yes"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Is the sales value in December 2020 higher than the sales value in January 2021?",
+    "short_answer": "No"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Trends and Predictions",
+    "question": "What is the overall trend shown in the chart from September 2020 to March 2021?",
+    "short_answer": "Increasing"
+  }
+]

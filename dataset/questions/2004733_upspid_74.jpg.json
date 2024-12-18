@@ -1,0 +1,32 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": "line"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the title of the chart?",
+    "short_answer": "Percentage share"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the max y value shown in the chart?",
+    "short_answer": "0.6"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which year had the lowest percentage share?",
+    "short_answer": "1998-99"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Trends and Predictions",
+    "question": "Is the share constantly increasing after 2005-06?",
+    "short_answer": "No"
+  }
+]

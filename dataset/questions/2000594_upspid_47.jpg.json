@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": "bar"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the title of the y-axis in the chart?",
+    "short_answer": "Cost"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the highest value shown in the chart?",
+    "short_answer": "182,543"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which category has the value lower than $100,000 in the chart?",
+    "short_answer": "Low-end In House Estimate (2.5 FTE)"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "What is the difference in cost between FY 2021 Contracted (2.2 FTE) and Low-end In House Estimate (2.0 FTE)?",
+    "short_answer": "54,206"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which category has a higher cost: High-end In House Estimate (2.0 FTE) or High-end In House Estimate (2.5 FTE)?",
+    "short_answer": "High-end In House Estimate (2.5 FTE)"
+  }
+]

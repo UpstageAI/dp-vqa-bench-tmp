@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": "bar"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the title of the chart in the document?",
+    "short_answer": "Annual Net Savings Attributable to 30-Day Readmission Reduction"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the highest value shown in the chart?",
+    "short_answer": "120,000,000"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "What is the percentage difference in estimated annual readmission expense between 'Without Watershed' and 'With Watershed'?",
+    "short_answer": "33.33"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which category has the higher estimated annual readmission expense: 'Without Watershed' or 'With Watershed'?",
+    "short_answer": "Without Watershed"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "What is the expense difference between 'Without Watershed' and 'With Watershed'?",
+    "short_answer": "40,000,000"
+  }
+]

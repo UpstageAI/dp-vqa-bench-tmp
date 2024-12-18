@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": "Pie"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the title of the chart in the document?",
+    "short_answer": "EBIT Weighting FY21F"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the highest value shown in the chart?",
+    "short_answer": "49"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which category has the highest percentage value?",
+    "short_answer": "Roofing"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "What is the percentage difference between Roofing and Distribution?",
+    "short_answer": "9"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Do the percentages of Distribution and Infrastructure combined exceed that of Roofing?",
+    "short_answer": "Yes"
+  }
+]

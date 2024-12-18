@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": "bar"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the title of the chart?",
+    "short_answer": "One-year-old vaccination coverage by world region, 2002"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the title of the x-axis?",
+    "short_answer": "Percent"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which two world regions have the same vaccination coverage?",
+    "short_answer": "Eastern Mediterranean and Western Pacific"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which world region has the lowest vaccination coverage?",
+    "short_answer": "African"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "How many regions have vaccination coverage exceeding 70%?",
+    "short_answer": "5"
+  }
+]

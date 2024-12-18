@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": "bar"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "How many categories are in the chart?",
+    "short_answer": "3"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the highest value shown in the chart?",
+    "short_answer": "221.920.000"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "How many categories have value greater than 200.000.000?",
+    "short_answer": "2"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which year had the highest value in the dataset?",
+    "short_answer": "2009"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Are there any categories with the same value?",
+    "short_answer": "No"
+  }
+]

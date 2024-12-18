@@ -1,0 +1,50 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": "Pie"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the title of the chart?",
+    "short_answer": "Level of Political Knowledge among the Youth"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the highest value shown in the chart?",
+    "short_answer": "59"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the name of the item with the highest value?",
+    "short_answer": "Low"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "What is the percentage difference between 'Very Low' and 'Low'?",
+    "short_answer": "40"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which category has the lowest value?",
+    "short_answer": "Very High"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which two categories have the same percentage?",
+    "short_answer": "High and Not at all"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Trends and Predictions",
+    "question": "Is the distribution of political knowledge among the youth evenly distributed?",
+    "short_answer": "No"
+  }
+]

@@ -1,0 +1,62 @@
+# Document Content:
+
+```markdown
+<CONTENTSECTION>
+```
+
+# Questions:
+
+```json
+<QUESTIONSECTION>
+```
+
+# Answer:
+
+<Provide your detailed answer for each question based on the document content. Be specific, concise, and relevant.>
+
+# Example Question:
+```json
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": ""
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "Is the value of A lower than B?",
+    "short_answer": ""
+  }
+]
+```
+
+# Example Answer:
+```json
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": "line" or "bar" or "pie"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "Is the value of A lower than B?",
+    "short_answer": "Yes" or "No"
+  }
+]
+```
+
+
+# Instructions for answering questions:
+
+1. Ensure that the answers directly address the questions posed.
+2. Answers should be factually accurate and derived solely from the document content.
+3. Each answer should demonstrate a clear understanding of the document, reflecting key details and overarching themes where applicable.
+4. If the document lacks sufficient information to answer a question, state explicitly: "Not enough information in the document."
+5. If you are not able to answer the question, leave the "short_answer" field empty.
+6. If there are not enough information in the document to answer the question, leave the "short_answer" field empty.
+7. Do not add any additional explanation in the answer section. The answer should be clear and to the point.

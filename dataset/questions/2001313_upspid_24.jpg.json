@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": "Pie"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the title of the chart?",
+    "short_answer": "How did your business start?"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the smallest percentage value shown in the chart?",
+    "short_answer": "3"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the second highest percentage value shown in the chart?",
+    "short_answer": "28"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which category has the highest percentage value?",
+    "short_answer": "I started the business from scratch"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "What is the percentage difference between 'I purchased/became owner of an existing business' and 'Other'?",
+    "short_answer": "14"
+  }
+]

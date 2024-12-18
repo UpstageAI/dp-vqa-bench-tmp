@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": "line"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the title of the chart?",
+    "short_answer": "Wiki En<->De"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "Does the value at De->En 20 exceed 0.28?",
+    "short_answer": "Yes"
+  },  
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "Which number of example has the highest value shown in the chart?",
+    "short_answer": "20"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which value is higher: De→En at 0 or En→De at 0?",
+    "short_answer": "De→En at 0"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Is De→En at 0 higher than En→De at 20?",
+    "short_answer": "No"
+  }
+]

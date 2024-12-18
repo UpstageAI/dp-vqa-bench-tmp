@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": "Pie"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "How many categories are in the chart?",
+    "short_answer": "4"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the highest value shown in the chart?",
+    "short_answer": "49.6"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Are the percentage of the categories evenly distributed?",
+    "short_answer": "No"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "What is the percentage difference between 'Energy consumption' and 'Public operations'?",
+    "short_answer": "42.5"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Trends and Predictions",
+    "question": "What is the percentage sum of 'Energy consumption', 'Business travel', and 'Other'?",
+    "short_answer": "92.9"
+  }
+]

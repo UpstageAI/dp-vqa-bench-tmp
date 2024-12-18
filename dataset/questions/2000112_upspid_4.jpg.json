@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": "bar"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the title of the chart in the document?",
+    "short_answer": "MSCI World Regional Indices Performance"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "How many categories have value below 3%?",
+    "short_answer": "4"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which category has the highest value?",
+    "short_answer": "US"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which item has the lowest value?",
+    "short_answer": "Japan"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Is the value for 'UK' higher than that for 'US'?",
+    "short_answer": "No"
+  }
+]

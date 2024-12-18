@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": "Pie"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the title of the chart in the document?",
+    "short_answer": "Funding structure"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the highest value shown in the chart?",
+    "short_answer": "Customer deposits"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "Which category has the second highest percentage in the chart?",
+    "short_answer": "Medium- and long-term"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "What is the percentage difference between Customer deposits and Medium- and long-term refinancing?",
+    "short_answer": "58"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Is the percentage value of 'Medium and long-term refinancing' lower than 'Short-term refinancing'?",
+    "short_answer": "No"
+  }
+]

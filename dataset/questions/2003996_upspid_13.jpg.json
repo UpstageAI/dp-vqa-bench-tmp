@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": "line"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the title of the y-axis in the chart?",
+    "short_answer": "Unemployment Rate"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "Does the highest unemployment rate exceed 6%?",
+    "short_answer": "Yes"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which year had the highest unemployment rate?",
+    "short_answer": "2020"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which year had the lowest unemployment rate?",
+    "short_answer": "2018"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Is the unemployment rate in 2020 lower than the rate in February 2021?",
+    "short_answer": "No"
+  }
+]

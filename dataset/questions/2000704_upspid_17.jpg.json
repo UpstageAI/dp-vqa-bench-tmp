@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What type of chart is in the document?",
+    "short_answer": "pie"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the percentage of the second-highest value in the chart?",
+    "short_answer": "8"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the highest percentage value shown in the chart?",
+    "short_answer": "89"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which category has the highest percentage of the loan portfolio?",
+    "short_answer": "Loans not at immediate risk of default according to CRR"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "What is the percentage difference between loans at risk of default and loans from a special fund?",
+    "short_answer": "5"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "What is the percentage sum of loans at risk of default and loans not at immediate risk of default according to CRR?",
+    "short_answer": "97"
+  }
+]

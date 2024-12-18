@@ -1,0 +1,6 @@
+requests
+nest_asyncio
+tqdm
+llama-index
+llama-index-llms-anthropic
+llama-index-multi-modal-llms-anthropic

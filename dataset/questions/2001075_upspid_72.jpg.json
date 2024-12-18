@@ -1,0 +1,56 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": "pie"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the title of the chart in the document?",
+    "short_answer": "2020 Global Recycled Materials (10.7 million tons total)"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the highest percentage value shown in the chart?",
+    "short_answer": "33.24"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the name of the item with the highest percentage value?",
+    "short_answer": "Sinter"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "How many categories are in the chart?",
+    "short_answer": "9"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the percentage of materials that fall under the category of 'Spend Pickle Liquor Off-site resue'?",
+    "short_answer": "0.22"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "What is the percentage difference between Scrap Steel and Sinter?",
+    "short_answer": "5.25"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which item has the lowest percentage value?",
+    "short_answer": "Byproduct Coke Plant Process Residues"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which category has the second highest percentage of recycled materials?",
+    "short_answer": "Blast Furnace Slag Off-site Use"
+  }
+]

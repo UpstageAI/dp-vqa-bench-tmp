@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": "Bar"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the title of the x-axis in the chart?",
+    "short_answer": "Yes/No"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the unit of measurement on the y-axis?",
+    "short_answer": "%"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which category has the highest percentage value?",
+    "short_answer": "Yes"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "What is the percentage difference between 'Yes' and 'No'?",
+    "short_answer": "60"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Is the percentage of 'Yes' higher than 'No'?",
+    "short_answer": "Yes"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "How many categories are in the chart?",
+    "short_answer": "3"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the second-highest value shown in the chart?",
+    "short_answer": "14"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the name of the item with the highest value?",
+    "short_answer": "CCL Label"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "What is the percentage difference between CCL Label and CCL Container?",
+    "short_answer": "66"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which category has the lowest value?",
+    "short_answer": "CCL Tube"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Trends and Predictions",
+    "question": "What is the combined total of the bottom two categories?",
+    "short_answer": "20"
+  }
+]

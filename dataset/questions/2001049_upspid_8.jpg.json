@@ -1,0 +1,44 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the type of the chart shown in the document?",
+    "short_answer": "bar"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the title of the x-axis in the chart?",
+    "short_answer": "Organs/Tissue of an Adult"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the unit of measurement on the y-axis?",
+    "short_answer": "mSv/y"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "Is the value of the Lungs dose lower than the Orvies dose?",
+    "short_answer": "No"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "How many categories have a dose level above 0.03?",
+    "short_answer": "1"
+  },  
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which organ/tissue has the highest dose value?",
+    "short_answer": "Testes"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which organ/tissue has the lowest dose value?",
+    "short_answer": "Liver"
+  }
+]

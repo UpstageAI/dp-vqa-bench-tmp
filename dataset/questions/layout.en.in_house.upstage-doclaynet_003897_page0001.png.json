@@ -1,0 +1,38 @@
+[
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the title of the chart in the document?",
+    "short_answer": "FMD VACCINATION COVERAGE IN SELECTED ZONE 2 EXTENTION AREAS DURING THE OCTOBER 2014 TUBU FMD OUTBREAK"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the highest vaccination coverage percentage shown in the chart?",
+    "short_answer": "90"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "What is the name of the extension area with the highest vaccination coverage?",
+    "short_answer": "NOKANENG"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Analysis and Understanding",
+    "question": "How many categories have vaccination coverage below 75%?",
+    "short_answer": "3"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "Which extension area has the lowest vaccination coverage?",
+    "short_answer": "TSAU"
+  },
+  {
+    "category": "Chart",
+    "question_type": "Comparison",
+    "question": "What is the percentage difference in vaccination coverage between GUMARE and NOKANENG?",
+    "short_answer": "13"
+  }
+]
