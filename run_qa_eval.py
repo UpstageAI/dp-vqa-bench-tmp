@@ -27,7 +27,7 @@ def ask_question(prompt, model):
 
 
 def read_question_and_answer(basepath, filename):
-    question_paths = glob(basepath + filename + "*")
+    question_paths = glob(os.path.join(basepath, filename + "*"))
     if len(question_paths) == 1:
         question_path = question_paths[0]
         with open(question_path, "r") as f:
@@ -138,9 +138,12 @@ if __name__ == "__main__":
 
     file_paths = glob(os.path.join(args.content_path, "*.txt"))
 
+    counter = 0
     all_scores = []
-    for idx, file_path in enumerate(file_paths):
-        print("({}/{}) Processing file: ".format(idx+1, len(file_paths)), file_path)
+    for file_path in file_paths:
+        if "time.txt" in file_path:
+            continue
+        print("({}/{}) Processing file: ".format(counter+1, len(file_paths)), file_path)
 
         basename = '.'.join(os.path.basename(file_path).split(".")[:-1])
 
@@ -180,6 +183,8 @@ if __name__ == "__main__":
         eval_save_path = os.path.join(save_basepath, "scores.txt")
         with open(eval_save_path, "w") as f:
             f.write(scores_text)
+
+        counter += 1
 
     avg_score = sum(all_scores) / len(all_scores)
     total_questions = len(all_scores)

@@ -14,7 +14,6 @@ from llama_index.multi_modal_llms.anthropic import AnthropicMultiModal
 
 from utils import get_image_path_list, save_txt
 
-
 LLAMAPARSE_API_KEY = ""
 OPENAI_API_KEY = ""
 UPSTAGE_API_KEY = ""
@@ -22,7 +21,7 @@ UPSTAGE_API_KEY = ""
 
 def infer_llamaparse(image_dir, save_dir):
     parser = LlamaParse(
-        api_key=LLAMPARSE_API_KEY,
+        api_key=LLAMAPARSE_API_KEY,
         result_type="markdown",
         premium_mode=True  # "markdown" and "text" are available
     )
