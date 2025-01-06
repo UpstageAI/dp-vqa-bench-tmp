@@ -54,9 +54,7 @@
 # Instructions for answering questions:
 
 1. Ensure that the answers directly address the questions posed.
-2. Answers should be factually accurate and derived solely from the document content.
+2. Answers should be accurate and derived solely from the "Document Content".
 3. Each answer should demonstrate a clear understanding of the document, reflecting key details and overarching themes where applicable.
-4. If the document lacks sufficient information to answer a question, state explicitly: "Not enough information in the document."
-5. If you are not able to answer the question, leave the "short_answer" field empty.
-6. If there are not enough information in the document to answer the question, leave the "short_answer" field empty.
-7. Do not add any additional explanation in the answer section. The answer should be clear and to the point.
+4. If you are not able to answer the question due to lack of information in the document, leave the "short_answer" field empty.
+5. Do not add any additional explanation in the answer section. The answer should be clear and to the point.

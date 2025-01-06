@@ -22,7 +22,7 @@
 
 # Example Model Answer:
 ```list
-['No', 'line', '100,002', '2022', '10%']
+['no', 'Line', '100,002', '2022', '10%']
 ```
 
 # Example Scores:
@@ -34,5 +34,6 @@
 1. The reference answers are the ground truth for the model answers.
 2. The score for each item is 1 if the model answer is the same as the reference answer, and 0 otherwise.
 3. The unit could be included in the answer(e.g., 100,000 or $100000, 10 or 10%), but if the number is correct, the score should be 1.
-4. The final evaluation score should be in the list format. For example, if the model answers are correct for all the items, the score should be [1, 1, 1, 1, 1].
-5. Do not provide additional explanation of the scores.
+4. Ignore capitalization, punctuation, and spacing when evaluating the answers.
+5. The final evaluation score should be in the list format. For example, if the model answers are correct for all the items, the score should be [1, 1, 1, 1, 1].
+6. Do not provide additional explanation of the scores.
